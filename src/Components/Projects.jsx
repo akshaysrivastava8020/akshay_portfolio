@@ -11,6 +11,7 @@ import Project5 from "../Images/Project5.png"
 const Projects = () => {
 
   return (
+    <>
     <Box className="Project_Box-dark">
       <Box paddingBottom="10px">
       <Heading ml={{base:"5%",md:"10%",lg:"50%"}} as='h1' width="12%" marginLeft='10%' borderBottom='4px solid #a1a1a1'>Portfolio</Heading>
@@ -28,6 +29,8 @@ const Projects = () => {
       /> 
       </Box>
     </Box>
+    
+    </>
   )
 }
 
