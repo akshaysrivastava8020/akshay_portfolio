@@ -31,7 +31,7 @@ const SideBox = () => {
         </Box>
     </Flex>
     </a>
-    <a href="" target='blank'>
+    <a href="https://drive.google.com/file/d/1cE1R7cgmqMcCMIb4loouDB7DBEHtOtpa/view?usp=sharing" target='blank'>
     <Flex className='sideBox1' borderBottomRightRadius='15px'>
         <Text pt='7px' margin='0px' color='white'>Resume</Text>
         <Box className='sideBox2'>
